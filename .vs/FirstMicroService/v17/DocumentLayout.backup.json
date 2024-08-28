@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\MicroService\\FirstMicroService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93551DB4-C93C-4693-8574-4667C53E2B6C}|FirstMicroService.Categories.WebAPI\\FirstMicroService.Categories.WebAPI.csproj|c:\\users\\hp\\desktop\\microservice\\firstmicroservice\\firstmicroservice.categories.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93551DB4-C93C-4693-8574-4667C53E2B6C}|FirstMicroService.Categories.WebAPI\\FirstMicroService.Categories.WebAPI.csproj|solutionrelative:firstmicroservice.categories.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1982C082-E547-4830-B86A-20B5E4652B27}|FirstMicroService.Ocelot.Gateway\\FirstMicroService.Ocelot.Gateway.csproj|c:\\users\\hp\\desktop\\microservice\\firstmicroservice\\firstmicroservice.ocelot.gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1982C082-E547-4830-B86A-20B5E4652B27}|FirstMicroService.Ocelot.Gateway\\FirstMicroService.Ocelot.Gateway.csproj|solutionrelative:firstmicroservice.ocelot.gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95E3510-3161-4171-A13F-729F772A1776}|FirstMicroService.Todos.WebAPI\\FirstMicroService.Todos.WebAPI.csproj|c:\\users\\hp\\desktop\\microservice\\firstmicroservice\\firstmicroservice.todos.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95E3510-3161-4171-A13F-729F772A1776}|FirstMicroService.Todos.WebAPI\\FirstMicroService.Todos.WebAPI.csproj|solutionrelative:firstmicroservice.todos.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1982C082-E547-4830-B86A-20B5E4652B27}|FirstMicroService.Ocelot.Gateway\\FirstMicroService.Ocelot.Gateway.csproj|c:\\users\\hp\\desktop\\microservice\\firstmicroservice\\firstmicroservice.ocelot.gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1982C082-E547-4830-B86A-20B5E4652B27}|FirstMicroService.Ocelot.Gateway\\FirstMicroService.Ocelot.Gateway.csproj|solutionrelative:firstmicroservice.ocelot.gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1982C082-E547-4830-B86A-20B5E4652B27}|FirstMicroService.Ocelot.Gateway\\FirstMicroService.Ocelot.Gateway.csproj|c:\\users\\hp\\desktop\\microservice\\firstmicroservice\\firstmicroservice.ocelot.gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1982C082-E547-4830-B86A-20B5E4652B27}|FirstMicroService.Ocelot.Gateway\\FirstMicroService.Ocelot.Gateway.csproj|solutionrelative:firstmicroservice.ocelot.gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MicroService\\FirstMicroService\\FirstMicroService.Categories.WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "FirstMicroService.Categories.WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MicroService\\FirstMicroService\\FirstMicroService.Categories.WebAPI\\Program.cs",
-              "RelativeToolTip": "FirstMicroService.Categories.WebAPI\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MicroService\\FirstMicroService\\FirstMicroService.Todos.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FirstMicroService.Todos.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MicroService\\FirstMicroService\\FirstMicroService.Todos.WebAPI\\Program.cs",
+              "RelativeToolTip": "FirstMicroService.Todos.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T10:24:10.891Z",
+              "WhenOpened": "2024-08-28T22:36:32.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MicroService\\FirstMicroService\\FirstMicroService.Ocelot.Gateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FirstMicroService.Ocelot.Gateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MicroService\\FirstMicroService\\FirstMicroService.Ocelot.Gateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FirstMicroService.Ocelot.Gateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T22:25:52.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MicroService\\FirstMicroService\\FirstMicroService.Ocelot.Gateway\\Program.cs",
+              "RelativeDocumentMoniker": "FirstMicroService.Ocelot.Gateway\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MicroService\\FirstMicroService\\FirstMicroService.Ocelot.Gateway\\Program.cs",
+              "RelativeToolTip": "FirstMicroService.Ocelot.Gateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T22:18:45.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MicroService\\FirstMicroService\\FirstMicroService.Ocelot.Gateway\\ocelot.json",
+              "RelativeDocumentMoniker": "FirstMicroService.Ocelot.Gateway\\ocelot.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MicroService\\FirstMicroService\\FirstMicroService.Ocelot.Gateway\\ocelot.json",
+              "RelativeToolTip": "FirstMicroService.Ocelot.Gateway\\ocelot.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T22:18:10.255Z",
               "EditorCaption": ""
             }
           ]

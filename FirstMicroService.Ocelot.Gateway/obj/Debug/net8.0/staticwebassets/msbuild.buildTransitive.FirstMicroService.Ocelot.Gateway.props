@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FirstMicroService.Ocelot.Gateway.props" />
+</Project>
